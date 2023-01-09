@@ -4,8 +4,6 @@
 
 Sms-Bombing-2023 😘💜
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=100&color=33F714&background=000000F7&width=510&lines=Hello👋+I am+Twoaha+Ibn+Jalal+🤘+SMS+Bombing Tool+for+Bangladesh.😴💪;Sent+Unlimited+Sms.😘💜;Thanks For+ Using My Tool.😌💞;Please+Follow+My+Github..😍😘)](https://git.io/typing-svg)
-
 <img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
 
 # SMS BOMBING TOOL FOR BANGLADESH
@@ -50,7 +48,7 @@ Password : Message Me On Whatsapp
 ```
 <img src="https://github.com/Twoaha/Sms-Bombing-2023/blob/main/Screenshot_2023-01-09-13-36-51-75.jpg" width="300%">
 
-# My Facebook & Wp.🖤
+# My Facebook & Whatsapp & Youtube.🖤
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=100&color=33F714&background=000000F7&width=510&lines=ANY+PROBLEM+THEN+SHARE+THIS+TOOLS+OWNER.☝️)](https://git.io/typing-svg)
 
@@ -60,5 +58,9 @@ Password : Message Me On Whatsapp
 		       <a href="https://facebook.com/Twoaha.Rubaiya1"><img title="Facebook" src="https://img.shields.io/badge/Facebook I'd-white?style=for-the-badge&logo=Facebook"></a></p>
 		       <a href="https://facebook.com/Twoaha.Rubaiya1"><img title="Facebook" src="https://img.shields.io/badge/Facebook Page-white?style=for-the-badge&logo=Facebook"></a></p>
 		       <a href="https://wa.me/+8801959848804?text"><img title="Whatsapp" src="https://img.shields.io/badge/TWOAHA(wp)-white?style=for-the-badge&logo=Whatsapp"></a></p>
-	<p><a href="https://github.com/Twoaha">[COADER © MAINUL ISLAM]</a></p>
+	<p><a href="https://github.com/Twoaha">[COADER © TWOAHA IBN JALAL]</a></p>
+
+
+
+
 
