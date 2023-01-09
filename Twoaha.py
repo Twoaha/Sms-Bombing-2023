@@ -12,7 +12,7 @@ if bitt=="64bit":
 
     time.sleep(2)
 
-    import Twoaha.Twoaha
+    import random
 
 else:
 
