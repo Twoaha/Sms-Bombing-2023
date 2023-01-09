@@ -12,7 +12,7 @@ if bitt=="64bit":
 
     time.sleep(2)
 
-    import MX.mahadi
+    import Twoaha.Twoaha
 
 else:
 
